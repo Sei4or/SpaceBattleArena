@@ -29,11 +29,13 @@ We use [jGRASP](http://www.jgrasp.org/) as our IDE of choice when working with H
 Documentation
 ------------------
 * [Client Setup](client/index.html)
-    * <a href="client/java_doc/" target="_blank">Java Docs</a>
-    * [jGRASP](client/jGRASP/index.html)
-    * [Eclipse](client/Eclipse/index.html)
-    * [BlueJ](client/BlueJ/index.html)    
+    * [BlueJ](client/BlueJ/index.html)
     * [Command Line](client/CmdLine/index.html)
+    * [Eclipse](client/Eclipse/index.html)
+    * [jGRASP](client/jGRASP/index.html)
+    * [VS Code](client/vscode/index.html)
+    * [VS Code (CSharp)](client/vscode/csharp.html) [Community Driven]
+* <a href="client/java_doc/" target="_blank">Java Docs</a>
 * [Guides](client/guides/index.html)
     * [Coordinates](client/guides/space.html)
     * [Maneuvering](client/guides/maneuvering.html)
@@ -68,6 +70,7 @@ Documentation
         * [King of Space (Variant)](games/kingofthebubble.html#kos)
     * [Discovery Quest](games/discoveryquest.html)
 * External Resources
+    * [Twitch Archive](https://www.twitch.tv/collections/a1gxFZRvzRXe_w) - Recent Tournament Archives
     * [YouTube Playlist](https://www.youtube.com/playlist?list=PL1DMX9HzuNPTiYpd1KslkAAsSY1yMrEgh) - Past Competitions
     * [Beat Senioritis with a Real-Time Networked Space Sim - CSTA 2016](https://www.youtube.com/watch?v=ZUBB8pRRgHI)
     * [You Have Died of Dysentery: Games in Education Are Still Alive - PAXDev 2014](http://www.mikeware.com/2014/08/you-have-died-of-dysentery-games-in-education-are-still-alive/)
